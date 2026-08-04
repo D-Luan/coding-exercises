@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmailExtrator/EmailExtrator.csproj" />
+  <Project Path="LinkValidator/LinkValidator.csproj" />
+</Solution>
