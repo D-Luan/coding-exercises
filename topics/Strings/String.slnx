@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmailExtrator/EmailExtrator.csproj" />
+  <Project Path="LinkValidator/LinkValidator.csproj" />
+  <Project Path="PalindromeDetector/PalindromeDetector.csproj" Id="66654b03-1d4c-4454-9e40-e30796ddf914" />
+  <Project Path="SentenceReverser/WordReverser.csproj" Id="0808cd01-371e-4480-8ffa-19602cad949c" />
+</Solution>
