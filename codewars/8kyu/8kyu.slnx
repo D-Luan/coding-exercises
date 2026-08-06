@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="DoYouSpeakEnglish/DoYouSpeakEnglish.csproj" />
+  <Project Path="ReversedStrings/ReversedStrings.csproj" Id="75f142e4-c261-4f7b-aaaa-8c5f9978378b" />
 </Solution>
