@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConvertNumberToString/ConvertNumberToString.csproj" Id="bd885718-661d-4c22-8d14-f7755a377f22" />
   <Project Path="DoYouSpeakEnglish/DoYouSpeakEnglish.csproj" />
   <Project Path="RemoveExclamation/RemoveExclamation.csproj" Id="f5ef8c96-3837-4115-b810-bd6ed8fdf859" />
   <Project Path="ReversedStrings/ReversedStrings.csproj" Id="75f142e4-c261-4f7b-aaaa-8c5f9978378b" />
