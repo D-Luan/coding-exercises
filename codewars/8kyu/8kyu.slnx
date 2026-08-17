@@ -1,6 +1,9 @@
 <Solution>
+  <Project Path="AbbreviateTwoWordName/AbbreviateTwoWordName.csproj" Id="cc88eddc-0471-408d-b451-06b79a30a495" />
   <Project Path="ConvertNumberToString/ConvertNumberToString.csproj" Id="bd885718-661d-4c22-8d14-f7755a377f22" />
   <Project Path="DoYouSpeakEnglish/DoYouSpeakEnglish.csproj" />
+  <Project Path="FakeBinary/FakeBinary.csproj" Id="97570644-24e5-4726-97e6-bf57f05d9f61" />
   <Project Path="RemoveExclamation/RemoveExclamation.csproj" Id="f5ef8c96-3837-4115-b810-bd6ed8fdf859" />
+  <Project Path="ReturningStrings/ReturningStrings.csproj" Id="b1bac144-5ae0-4e73-b4e3-2d1cbce13dc4" />
   <Project Path="ReversedStrings/ReversedStrings.csproj" Id="75f142e4-c261-4f7b-aaaa-8c5f9978378b" />
 </Solution>
