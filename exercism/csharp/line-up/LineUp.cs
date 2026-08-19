@@ -2,14 +2,16 @@ public static class LineUp
 {
     public static string Format(string name, int number)
     {
-        char[] numbers = number.ToString().ToCharArray();
-        int lastNumber = numbers[^1] - '0';
+        int lastNumber = number % 10;
+        int twoDigits = number % 100;
 
-        string ordinalNumeral = lastNumber switch
+        string ordinalNumeral = string.Empty;
+
+        ordinalNumeral = (lastNumber, twoDigits) switch
         {
-            1 => "st",
-            2 => "nd",
-            3 => "rd",
+            (1, not 11) => "st",
+            (2, not 12) => "nd",
+            (3, not 13) => "rd",
             _ => "th"
         };
 
