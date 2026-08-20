@@ -6,4 +6,6 @@
   <Project Path="RemoveExclamation/RemoveExclamation.csproj" Id="f5ef8c96-3837-4115-b810-bd6ed8fdf859" />
   <Project Path="ReturningStrings/ReturningStrings.csproj" Id="b1bac144-5ae0-4e73-b4e3-2d1cbce13dc4" />
   <Project Path="ReversedStrings/ReversedStrings.csproj" Id="75f142e4-c261-4f7b-aaaa-8c5f9978378b" />
+  <Project Path="ShortLongShort/ShortLongShort.csproj" Id="3f7944ba-1115-412f-b9ff-79ff715a9413" />
+  <Project Path="WellOfIdeas/WellOfIdeas.csproj" Id="f140edbf-78ff-413a-979b-286d731f8606" />
 </Solution>
