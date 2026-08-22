@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "robkeim"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Pangram.cs"
+    ],
+    "test": [
+      "PangramTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Pangram.csproj"
+    ]
+  },
+  "blurb": "Determine whether a phrase uses every letter in the Latin alphabet.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram"
+}
