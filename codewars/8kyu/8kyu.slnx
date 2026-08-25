@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="AbbreviateTwoWordName/AbbreviateTwoWordName.csproj" Id="cc88eddc-0471-408d-b451-06b79a30a495" />
   <Project Path="ConvertNumberToString/ConvertNumberToString.csproj" Id="bd885718-661d-4c22-8d14-f7755a377f22" />
+  <Project Path="CsvRepresentationArray/CsvRepresentationArray.csproj" Id="740a5b5d-aae0-4428-8c7f-4dc9ef7b5707" />
   <Project Path="DoYouSpeakEnglish/DoYouSpeakEnglish.csproj" />
   <Project Path="FakeBinary/FakeBinary.csproj" Id="97570644-24e5-4726-97e6-bf57f05d9f61" />
   <Project Path="RemoveExclamation/RemoveExclamation.csproj" Id="f5ef8c96-3837-4115-b810-bd6ed8fdf859" />
