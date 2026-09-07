@@ -2,6 +2,7 @@
   <Project Path="AbbreviateTwoWordName/AbbreviateTwoWordName.csproj" Id="cc88eddc-0471-408d-b451-06b79a30a495" />
   <Project Path="ConvertNumberToString/ConvertNumberToString.csproj" Id="bd885718-661d-4c22-8d14-f7755a377f22" />
   <Project Path="ConvertStringToNumber/ConvertStringToNumber.csproj" Id="78297899-1df9-4e84-859b-61aa53fa2b3f" />
+  <Project Path="CountSheep/CountSheep.csproj" Id="fd5f5e7a-c941-40d8-b81d-cb6920bf2a00" />
   <Project Path="CsvRepresentationArray/CsvRepresentationArray.csproj" Id="740a5b5d-aae0-4428-8c7f-4dc9ef7b5707" />
   <Project Path="DnaToRna/DnaToRna.csproj" Id="2575158c-b1d6-4ae5-892b-a2fb0fc5151d" />
   <Project Path="DoYouSpeakEnglish/DoYouSpeakEnglish.csproj" />
@@ -11,5 +12,6 @@
   <Project Path="ReversedStrings/ReversedStrings.csproj" Id="75f142e4-c261-4f7b-aaaa-8c5f9978378b" />
   <Project Path="ShortLongShort/ShortLongShort.csproj" Id="3f7944ba-1115-412f-b9ff-79ff715a9413" />
   <Project Path="StringRepeat/StringRepeat.csproj" />
+  <Project Path="StringToArray/StringToArray.csproj" Id="81e60413-06b4-4ce9-a627-4cda2461b9c8" />
   <Project Path="WellOfIdeas/WellOfIdeas.csproj" Id="f140edbf-78ff-413a-979b-286d731f8606" />
 </Solution>
