@@ -15,5 +15,6 @@
   <Project Path="ShortLongShort/ShortLongShort.csproj" Id="3f7944ba-1115-412f-b9ff-79ff715a9413" />
   <Project Path="StringRepeat/StringRepeat.csproj" />
   <Project Path="StringToArray/StringToArray.csproj" Id="81e60413-06b4-4ce9-a627-4cda2461b9c8" />
+  <Project Path="TotalPoints/TotalPoints.csproj" />
   <Project Path="WellOfIdeas/WellOfIdeas.csproj" Id="f140edbf-78ff-413a-979b-286d731f8606" />
 </Solution>
