@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AbbreviateTwoWordName/AbbreviateTwoWordName.csproj" Id="cc88eddc-0471-408d-b451-06b79a30a495" />
+  <Project Path="BonusTime/BonusTime.csproj" />
   <Project Path="ConvertNumberToString/ConvertNumberToString.csproj" Id="bd885718-661d-4c22-8d14-f7755a377f22" />
   <Project Path="ConvertStringToNumber/ConvertStringToNumber.csproj" Id="78297899-1df9-4e84-859b-61aa53fa2b3f" />
   <Project Path="CountSheep/CountSheep.csproj" Id="fd5f5e7a-c941-40d8-b81d-cb6920bf2a00" />
